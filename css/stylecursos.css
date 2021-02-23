@@ -1,0 +1,217 @@
+.atop, .contacttitle{
+color: black;
+margin: 3%;
+}
+
+.atop:hover, .contacttitle:hover{
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.anchor-button{
+  width: 50%;
+
+}
+
+.anchor-button:hover{
+  text-decoration: none;
+}
+
+.blanck{
+background-color: #89c9b8;
+height: 30px;
+width: 100%;
+}
+
+body{
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container{
+font-family: 'Montserrat', sans-serif;
+width:50% ;
+margin-top:2%;
+}
+
+#buttonPrice{
+    border-color: #89c9b8;
+    color: #89c9b8;
+    font-weight: bold;
+    transition-duration: 0.4s;
+}
+
+#buttonPrice:hover {
+  background-color: #89c9b8;
+  color: white;
+  font-weight: bolder;
+}
+
+#buttonPriceMidle{
+  background-color: #89c9b8;
+  border-color: #89c9b8;
+  color: white;
+  font-weight: bold;
+  transition-duration: 0.4s;
+}
+
+#buttonPriceMidle:hover {
+  background-color: #fff;
+  color: #89c9b8;
+  font-weight: bolder;
+}
+
+.certificate-button{
+  width: 30%;
+}
+
+.contact-me{
+  margin-bottom: 5%;
+}
+
+.containerTitle, .container{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cloud1{
+  position:relative;
+  left: 25%;
+
+}
+
+
+.cloud2{
+  position: absolute;
+
+}
+
+#development{
+font-weight: 600;
+
+}
+
+.div1{
+background-color: #89c9b8;
+margin-left: ;
+margin-right: ;
+margin-top:;
+margin-bottom: ;
+border: ;
+}
+
+
+.favicon{
+border-radius: 100%;
+
+}
+
+h1{
+margin: 0;
+font-weight:;
+font-family: 'Sacramento', cursive;
+font-size: 3.14rem;
+}
+h2{
+margin-top: 3%;
+}
+h3{
+
+}
+
+#h3end{
+margin-top: 3%;
+
+}
+
+h4{
+font-weight: lighter;
+}
+
+head{
+  margin-left:;
+  margin-right:;
+  margin-top:;
+  margin-bottom: ;
+}
+
+
+hr{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.horizontalrule{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  color: grey;
+  background-color: grey;
+}
+
+.icon1{
+height: 20%;
+width: 20%;
+
+}
+.icon2{
+height: 50%;
+width: 50%;
+margin-bottom: 5%;
+}
+
+
+.iconbottom-container{
+  align-items: center;
+  color: #89c9b8;
+}
+
+.iconbottom-container:hover{
+  color: #36ba97;
+}
+
+.iconcontact{
+border: none;
+padding: none;
+}
+
+.iconbottom-container-cell{
+
+}
+
+.imagescourse{
+  margin-top: 0%;
+  border-radius: 20%;
+  width: 60%;
+  height: 60%;
+
+}
+
+
+p{
+font-weight: lighter;
+
+}
+
+.tableskill{
+  width: 50%;
+  height: 20%;
+  align-items: center;
+margin-top: 10%;
+}
+
+.top{
+background: linear-gradient(to bottom, white 0%, #89c9b8 100%);
+height: 20px;
+width: 100%;
+position:;
+font-family: cursive;
+}
+
+.top-div{
+ margin-bottom: 5%;
+}
+
+.page{
+font-family: 'Montserrat', sans-serif;
+background: linear-gradient(to bottom, #89c9b8 0%, white 100%);
+}
